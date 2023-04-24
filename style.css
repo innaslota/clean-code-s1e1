@@ -41,10 +41,12 @@ ul {
   margin: 0;
   padding: 0px;
 }
-li, .heading-3 {
+li, 
+.heading-3 {
   list-style: none;
 }
-input, button {
+input, 
+button {
   outline: none;
 }
 button {
